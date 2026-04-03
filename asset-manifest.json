@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sivaranjani-portfolio/static/css/main.f38bbce7.css",
-    "main.js": "/sivaranjani-portfolio/static/js/main.a56cc2e5.js",
+    "main.css": "/sivaranjani-portfolio/static/css/main.d4d14a76.css",
+    "main.js": "/sivaranjani-portfolio/static/js/main.e7988648.js",
     "static/js/453.635f5f07.chunk.js": "/sivaranjani-portfolio/static/js/453.635f5f07.chunk.js",
     "index.html": "/sivaranjani-portfolio/index.html",
-    "main.f38bbce7.css.map": "/sivaranjani-portfolio/static/css/main.f38bbce7.css.map",
-    "main.a56cc2e5.js.map": "/sivaranjani-portfolio/static/js/main.a56cc2e5.js.map",
+    "main.d4d14a76.css.map": "/sivaranjani-portfolio/static/css/main.d4d14a76.css.map",
+    "main.e7988648.js.map": "/sivaranjani-portfolio/static/js/main.e7988648.js.map",
     "453.635f5f07.chunk.js.map": "/sivaranjani-portfolio/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f38bbce7.css",
-    "static/js/main.a56cc2e5.js"
+    "static/css/main.d4d14a76.css",
+    "static/js/main.e7988648.js"
   ]
 }
