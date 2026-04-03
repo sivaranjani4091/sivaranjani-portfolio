@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sivaranjani-portfolio/static/css/main.9d3a9cae.css",
+    "main.js": "/sivaranjani-portfolio/static/js/main.a56cc2e5.js",
+    "static/js/453.635f5f07.chunk.js": "/sivaranjani-portfolio/static/js/453.635f5f07.chunk.js",
+    "index.html": "/sivaranjani-portfolio/index.html",
+    "main.9d3a9cae.css.map": "/sivaranjani-portfolio/static/css/main.9d3a9cae.css.map",
+    "main.a56cc2e5.js.map": "/sivaranjani-portfolio/static/js/main.a56cc2e5.js.map",
+    "453.635f5f07.chunk.js.map": "/sivaranjani-portfolio/static/js/453.635f5f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d3a9cae.css",
+    "static/js/main.a56cc2e5.js"
+  ]
+}
